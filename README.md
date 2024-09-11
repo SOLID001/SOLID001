@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SOLID001
-- 👀 I’m interested in ...Front end development and Data analysis
-- 🌱 I’m currently learning ...Rprogramming and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...via email: lawalsamuel31@gmail.com or via phone:+2349074900567
+- 👀 Building on my Front end development skill
+- 🌱 I’m currently working on a social platform for university students
+- 💞️ I’m looking to collaborate on ...front end gigs
+- 📫 How to reach me ...via email: lawalsamuel31@gmail.com or via phone:+2348052338869
 
 <!---
 SOLID001/SOLID001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
